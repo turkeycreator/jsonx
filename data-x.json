@@ -2,7 +2,7 @@
     "active": true,
     "device": "android",
     "cookie_time": "30",
-    "adshow_limit": 2,
+    "adshow_limit": 3,
     "adshow_position": "posts",
     "adshow_type": "random",
     "ad_scripts": [
