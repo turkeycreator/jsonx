@@ -1,6 +1,6 @@
 {
     "active": true,
-    "device": "none",
+    "device": "android",
     "cookie_time": "30",
     "adshow_limit": 1,
     "adshow_position": "all",
