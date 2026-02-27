@@ -4,7 +4,7 @@
     "cookie_time": "30",
     "adshow_limit": 3,
     "adshow_position": "posts",
-    "adshow_type": "random",
+    "adshow_type": "onlyme",
     "ad_scripts": [
         "<script async src=\"https://js.wpadmngr.com/static/adManager.js\" data-admpid=\"344687\"></script>",
         "<script async src=\"https://js.wpadmngr.com/static/adManager.js\" data-admpid=\"344685\"></script>",
