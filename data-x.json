@@ -3,8 +3,8 @@
     "device": "android",
     "cookie_time": "30",
     "adshow_limit": 1,
-    "adshow_position": "all",
-    "adshow_type": "onlyme",
+    "adshow_position": "posts",
+    "adshow_type": "random",
     "ad_scripts": [
         "<script async src=\"https://js.wpadmngr.com/static/adManager.js\" data-admpid=\"344687\"></script>",
         "<script async src=\"https://js.wpadmngr.com/static/adManager.js\" data-admpid=\"344685\"></script>",
