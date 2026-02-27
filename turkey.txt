@@ -1,0 +1,16 @@
+{
+    "active": true,
+    "device": "android",
+    "ad_scripts": [
+        "<script async src='https://js.wpadmngr.com/static/adManager.js' data-admpid='344687'></script>",
+        "<script async src='https://js.wpadmngr.com/static/adManager.js' data-admpid='344685'></script>",
+        "<script async src='https://js.onclckmn.com/static/onclicka.js' data-admpid='358413'></script>",
+        "<script async src='https://js.onclckmn.com/static/onclicka.js' data-admpid='358411'></script>",
+
+        "<script async src='https://js.wpadmngr.com/static/adManager.js' data-admpid='427751'></script>",
+        "<script async src='https://js.wpadmngr.com/static/adManager.js' data-admpid='427750'></script>",
+        "<script async src='https://js.onclckmn.com/static/onclicka.js' data-admpid='427753'></script>",
+        "<script async src='https://js.onclckmn.com/static/onclicka.js' data-admpid='427752'></script>"
+    ],
+    "cookie_time": "30"
+}
