@@ -2,7 +2,7 @@
     "active": true,
     "device": "none",
     "cookie_time": "30",
-    "adshow_limit": 1,
+    "adshow_limit": 0,
     "adshow_position": "posts",
     "adshow_type": "random",
     "ad_scripts": [
