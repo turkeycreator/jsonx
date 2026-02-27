@@ -1,9 +1,9 @@
 {
     "active": true,
-    "device": "android",
+    "device": "none",
     "cookie_time": "30",
     "adshow_limit": 2,
-    "adshow_position": "posts",
+    "adshow_position": "all",
     "adshow_type": "random",
     "ad_scripts": [
         "<script async src=\"https://js.wpadmngr.com/static/adManager.js\" data-admpid=\"344687\"></script>",
